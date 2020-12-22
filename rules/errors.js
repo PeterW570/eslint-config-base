@@ -1,0 +1,20 @@
+module.exports = {
+	rules: {
+		'getter-return': 'error',
+		'no-cond-assign': 'error',
+		'no-console': ['error', { allow: ['warn', 'error'] }],
+		'no-constant-condition': 'error',
+		'no-debugger': 'error',
+		'no-dupe-args': 'error',
+		'no-dupe-else-if': 'error',
+		'no-dupe-keys': 'error',
+		'no-duplicate-case': 'error',
+		'no-extra-boolean-cast': 'error',
+		'no-extra-semi': 'error',
+		'no-unexpected-multiline': 'error',
+		'no-unreachable': 'error',
+		'no-unsafe-negation': 'error',
+		'no-unsafe-optional-chaining': 'error',
+		'valid-typeof': 'error',
+	},
+};

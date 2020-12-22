@@ -1,0 +1,26 @@
+{
+	"name": "eslint-config-base",
+	"version": "1.0.0",
+	"description": "Eslint config",
+	"main": "index.js",
+	"peerDependencies": {
+		"eslint": ">= 7"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/PeterW570/eslint-config-base.git"
+	},
+	"keywords": [
+		"eslint",
+		"eslintconfig"
+	],
+	"author": "Peter Weightman",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/PeterW570/eslint-config-base/issues"
+	},
+	"homepage": "https://github.com/PeterW570/eslint-config-base#readme"
+}
